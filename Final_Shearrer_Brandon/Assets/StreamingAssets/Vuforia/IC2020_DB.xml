@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="AWhale" size="1.000000 1.294498" />
+    <ImageTarget name="ADiamond" size="1.000000 1.294498" />
+    <ImageTarget name="VDiamond" size="1.000000 1.294498" />
+    <ImageTarget name="VWhale" size="1.000000 1.294498" />
+    <ImageTarget name="AudibleWhaleGlyph" size="1.000000 1.294498" />
+    <ImageTarget name="AudibleDiamondGlyph" size="1.000000 1.294498" />
+    <ImageTarget name="VisualDiamondGlyph" size="1.000000 1.294498" />
+    <ImageTarget name="VisualWhaleGlyph" size="1.000000 1.294498" />
+  </Tracking>
+</QCARConfig>
